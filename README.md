@@ -74,7 +74,7 @@ To scrape other websites or extract additional data:
 
 ## License
 
-MIT License © 2025 Fabio Gualtieri
+MIT License © 2025 Loid
 
 ---
 
